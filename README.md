@@ -1,6 +1,6 @@
 # Mi primer repositorio
 
-Hola, soy [tu nombre].
+Hola, soy Jose.
 Estoy aprendiendo Git y GitHub.
 
 ## Objetivo
